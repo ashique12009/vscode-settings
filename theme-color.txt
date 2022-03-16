@@ -1,0 +1,31 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "explorer.compactFolders": false,
+    "vetur.ignoreProjectWarning": true,
+    "editor.renderLineHighlight": "none",
+    "liveServer.settings.donotShowInfoMsg": true,
+
+    "workbench.colorCustomizations": {
+        // Title bar
+        "titleBar.activeBackground": "#211728",
+
+        // Menu
+        "menu.background": "#211728",
+
+        // Activity bar
+        "activityBar.background": "#16141c",
+
+        // Sidebar
+        "sideBar.background": "#211728",
+
+        // Editor
+        "editor.background": "#1e1c2a",
+
+        // Tab
+        "tab.inactiveBackground": "#211728",
+
+        // Editor group
+        "editorGroupHeader.tabsBackground": "#211728"
+    }
+}
