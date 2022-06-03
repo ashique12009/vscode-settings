@@ -24,6 +24,7 @@
 
         // Tab
         "tab.inactiveBackground": "#211728",
+	"tab.activeBorderTop": "#fff",
 
         // Editor group
         "editorGroupHeader.tabsBackground": "#211728"
